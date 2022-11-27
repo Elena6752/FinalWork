@@ -13,3 +13,4 @@ _**Итоговая работа**_
 
 *Блок-схема:*
 
+![Блок-схема](https://user-images.githubusercontent.com/114250506/204132055-403b9cc1-55b5-45e7-a927-a4b0f7f005dc.PNG)
